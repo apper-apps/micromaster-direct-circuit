@@ -88,9 +88,9 @@ const CourseHistory = ({ onCourseSelect, activeCourseId, onCoursesChange }) => {
             >
               <CardContent>
                 <div className="space-y-3 max-h-[70vh] overflow-y-auto">
-                  {courses.map((course, index) => (
+{courses.map((course, index) => (
                     <motion.div
-                      key={course.id}
+                      key={`course-${course.Id || course.id}-${index}`}
                       initial={{ opacity: 0, x: -20 }}
                       animate={{ opacity: 1, x: 0 }}
                       transition={{ delay: index * 0.05 }}
@@ -99,7 +99,7 @@ const CourseHistory = ({ onCourseSelect, activeCourseId, onCoursesChange }) => {
                         course={course}
                         onSelect={handleCourseSelect}
                         onDelete={handleDeleteCourse}
-                        isActive={activeCourseId === course.id}
+                        isActive={activeCourseId === course.Id || activeCourseId === course.id}
                       />
                     </motion.div>
                   ))}
