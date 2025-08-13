@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "topic": "How to become an independent watchmaker",
+    "title": "Mastering Independent Watchmaking",
+    "description": "A comprehensive 5-module course covering everything you need to know about independent watchmaking. Learn practical skills, master key concepts, and gain hands-on experience through structured exercises and real-world applications.",
+    "modules": [
+      {
+        "id": "1_module_1",
+        "number": 1,
+        "title": "Understanding Watch Mechanics",
+        "objectives": [
+          "Learn the fundamental components of mechanical watches",
+          "Understand how watch movements work",
+          "Identify different types of watch mechanisms"
+        ],
+        "concepts": [
+          {
+            "title": "Watch Movement Basics",
+            "content": "The heart of every mechanical watch is its movement - a complex system of gears, springs, and escapements that work together to keep accurate time.",
+            "keyTakeaway": "The escapement is the soul of the watch, controlling the release of energy from the mainspring."
+          },
+          {
+            "title": "Essential Components",
+            "content": "Key components include the mainspring (power source), gear train (transfers energy), escapement (regulates timing), and balance wheel (oscillates to measure time).",
+            "keyTakeaway": "Each component must work in perfect harmony for accurate timekeeping."
+          }
+        ],
+        "exercises": [
+          {
+            "title": "Component Identification",
+            "description": "Study high-resolution images of watch movements and identify each major component",
+            "type": "observation",
+            "difficulty": "Easy"
+          },
+          {
+            "title": "Movement Disassembly Practice",
+            "description": "Using a practice movement, carefully disassemble and reassemble the components",
+            "type": "hands-on",
+            "difficulty": "Medium"
+          }
+        ],
+        "timeEstimate": 25,
+        "completed": false
+      },
+      {
+        "id": "1_module_2",
+        "number": 2,
+        "title": "Essential Tools and Workspace Setup",
+        "objectives": [
+          "Identify and understand essential watchmaking tools",
+          "Set up a proper workspace for watch repair",
+          "Learn proper tool handling and maintenance"
+        ],
+        "concepts": [
+          {
+            "title": "Core Tool Set",
+            "content": "Essential tools include screwdrivers, case openers, movement holders, loupes, tweezers, and timing equipment. Quality tools are crucial for precision work.",
+            "keyTakeaway": "Invest in quality tools from the beginning - they are essential for professional results."
+          },
+          {
+            "title": "Workspace Organization",
+            "content": "A clean, well-lit workspace with proper organization prevents lost parts and contamination. Anti-magnetic mats and dust-free environments are essential.",
+            "keyTakeaway": "Organization and cleanliness are as important as technical skill in watchmaking."
+          }
+        ],
+        "exercises": [
+          {
+            "title": "Tool Familiarization",
+            "description": "Handle and practice with each essential tool to build muscle memory",
+            "type": "practice",
+            "difficulty": "Easy"
+          },
+          {
+            "title": "Workspace Setup Challenge",
+            "description": "Design and set up an efficient workspace layout for watchmaking",
+            "type": "design",
+            "difficulty": "Medium"
+          }
+        ],
+        "timeEstimate": 30,
+        "completed": false
+      },
+      {
+        "id": "1_module_3",
+        "number": 3,
+        "title": "Basic Watch Repair Techniques",
+        "objectives": [
+          "Master fundamental repair techniques",
+          "Learn to diagnose common watch problems",
+          "Practice precision handling of small components"
+        ],
+        "concepts": [
+          {
+            "title": "Diagnostic Methods",
+            "content": "Systematic diagnosis involves listening to the watch, examining the movement visually, and testing various functions to identify issues.",
+            "keyTakeaway": "Proper diagnosis is half the repair - take time to understand the problem before acting."
+          },
+          {
+            "title": "Precision Techniques",
+            "content": "Working with watch components requires steady hands, proper lighting, and precise movements. Develop consistent techniques for handling delicate parts.",
+            "keyTakeaway": "Patience and precision are more valuable than speed in watchmaking."
+          }
+        ],
+        "exercises": [
+          {
+            "title": "Problem Diagnosis Practice",
+            "description": "Practice diagnosing issues in various non-functional watch movements",
+            "type": "diagnosis",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Component Replacement",
+            "description": "Replace worn or damaged components in practice movements",
+            "type": "repair",
+            "difficulty": "Hard"
+          }
+        ],
+        "timeEstimate": 35,
+        "completed": false
+      },
+      {
+        "id": "1_module_4",
+        "number": 4,
+        "title": "Watch Assembly and Regulation",
+        "objectives": [
+          "Learn proper assembly techniques for watch movements",
+          "Understand timing and regulation principles",
+          "Master the art of precise adjustment"
+        ],
+        "concepts": [
+          {
+            "title": "Assembly Order",
+            "content": "Proper assembly follows a specific sequence to ensure all components mesh correctly. The order matters for both function and accessibility.",
+            "keyTakeaway": "Following proper assembly sequence prevents damage and ensures optimal performance."
+          },
+          {
+            "title": "Timing and Regulation",
+            "content": "Regulation involves adjusting the balance wheel and escapement to achieve accurate timekeeping. This requires understanding of rate variations and beat adjustment.",
+            "keyTakeaway": "Good regulation is the difference between a timepiece and a precision instrument."
+          }
+        ],
+        "exercises": [
+          {
+            "title": "Complete Movement Assembly",
+            "description": "Assemble a complete movement from individual components",
+            "type": "assembly",
+            "difficulty": "Hard"
+          },
+          {
+            "title": "Timing Machine Practice",
+            "description": "Use timing equipment to measure and adjust watch accuracy",
+            "type": "measurement",
+            "difficulty": "Medium"
+          }
+        ],
+        "timeEstimate": 40,
+        "completed": false
+      },
+      {
+        "id": "1_module_5",
+        "number": 5,
+        "title": "Building Your Independent Practice",
+        "objectives": [
+          "Understand the business aspects of independent watchmaking",
+          "Learn about sourcing parts and materials",
+          "Develop customer relations and service procedures"
+        ],
+        "concepts": [
+          {
+            "title": "Business Foundation",
+            "content": "Independent watchmaking requires business skills including customer service, pricing, inventory management, and quality assurance procedures.",
+            "keyTakeaway": "Technical skill must be paired with business acumen for successful independence."
+          },
+          {
+            "title": "Professional Standards",
+            "content": "Maintaining professional standards includes warranty policies, documentation, and continuous education to stay current with new techniques and technologies.",
+            "keyTakeaway": "Professional reputation is built on consistent quality and reliable service."
+          }
+        ],
+        "exercises": [
+          {
+            "title": "Business Plan Development",
+            "description": "Create a basic business plan for your independent watchmaking practice",
+            "type": "planning",
+            "difficulty": "Medium"
+          },
+          {
+            "title": "Customer Service Scenarios",
+            "description": "Practice handling various customer situations and service requests",
+            "type": "roleplay",
+            "difficulty": "Medium"
+          }
+        ],
+        "timeEstimate": 28,
+        "completed": false
+      }
+    ],
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "completionStatus": 0
+  }
+]
